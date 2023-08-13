@@ -1,11 +1,15 @@
 # Delicious RECIPES App 
-
-> Vivid Recipe Collection: Our app boasts a vast array of recipes, giving you the freedom to choose according to your preferences.
-> Easy Step-by-Step Instructions: Each recipe is accompanied by simple, clear instructions, ensuring a seamless cooking experience.
-> Ingredients Checklist: We've included a list of all the necessary ingredients for each recipe.
-> Video Tutorials: For more intricate recipes, we provide video tutorials that guide you through every step.
-> Personalized Recommendations: The app suggests new recipes based on your past favorites and search history.
-> Your Perspective Matters: We value your feedback, so you can rate and review each recipe, sharing your thoughts with the community.
+          > Vivid Recipe Collection: Our app boasts a vast array of recipes, giving you the freedom to choose according to your preferences.
+          
+          > Easy Step-by-Step Instructions: Each recipe is accompanied by simple, clear instructions, ensuring a seamless cooking experience.
+          
+          > Ingredients Checklist: We've included a list of all the necessary ingredients for each recipe.
+          
+          >  Video Tutorials: For more intricate recipes, we provide video tutorials that guide you through every step.
+          
+          > Personalized Recommendations: The app suggests new recipes based on your past favorites and search history.  
+          
+          > Your Perspective Matters: We value your feedback, so you can rate and review each recipe, sharing your thoughts with the community.
 
 # Screenshot
 
